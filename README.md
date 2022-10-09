@@ -1,1 +1,3 @@
-# .github
+# Quantifier
+
+∀ problem ∃ solution
