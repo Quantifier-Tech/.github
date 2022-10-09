@@ -1,0 +1,3 @@
+# Quantifier
+
+∀ problem ∃ solution
